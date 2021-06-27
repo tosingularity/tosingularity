@@ -14,10 +14,10 @@
 </br>
 
 
-<a href="https://github.com/muksmuks/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muksmuks&show_icons=true&include_all_commits=true&theme=radical" alt="Mukesh's github stats" />
+<a href="https://github.com/tosingularity/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tosingularity&show_icons=true&include_all_commits=true&theme=radical" alt="Mukesh's github stats" />
 </a>
-<a href="https://github.com/muksmuks/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muksmuks&layout=compact&theme=radical" />
+<a href="https://github.com/tosingularity/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tosingularity&layout=compact&theme=radical" />
 </a>
 
